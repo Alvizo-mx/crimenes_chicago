@@ -1,0 +1,4 @@
+ls listar archivos 
+pwd listar directorios actual de trabajo 
+
+
